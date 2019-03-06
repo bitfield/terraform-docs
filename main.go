@@ -14,7 +14,7 @@ import (
 	"github.com/segmentio/terraform-docs/internal/pkg/settings"
 )
 
-var version = "dev"
+var version = "0.6.0"
 
 const usage = `
   Usage:
